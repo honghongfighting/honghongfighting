@@ -146,7 +146,8 @@ a:active {
 
 #test { 
   width: 50px; 
-  overflow-y: scroll; 
+  height:50px;
+  overflow: scroll
 } 
 
 
