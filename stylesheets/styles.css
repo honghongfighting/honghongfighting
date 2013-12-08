@@ -145,7 +145,7 @@ a:active {
 }
 
 #test { 
-  max-height: 50px; 
+  max-weight: 50px; 
   overflow-y: scroll; 
 } 
 
